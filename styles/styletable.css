@@ -1,0 +1,18 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    padding: 4px;
+
+}
+
+tr:nth-child(even) {
+    background-color: Gainsboro;
+}
+
+
+
