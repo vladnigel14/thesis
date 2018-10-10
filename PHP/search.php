@@ -30,7 +30,7 @@ $output .='<tr background-color: #dddddd;>
           <th style="padding:8px; border: 1px solid #dddddd;
     text-align:left;">'.$regdec.'</th>
           </tr>';
-			 echo $output;			 
+			// echo $output;			 
 
 		}
 	}
